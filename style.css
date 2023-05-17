@@ -8,8 +8,8 @@ body{
 }
 
 .cabecalho {
-    background-color: #200000;
-    color: white;
+    background-color: #900000;
+    color: yellow;
     display: flex;
     justify-content: space-around;
 }
@@ -34,8 +34,8 @@ body{
 }
 
 .escola{
-    background-image: linear-gradient(#009A04,#A7E5A9,#009A04,#A7E5A9);
-    color: white;
+    background-image: linear-gradient(#000000,#000000,#000000,#000000);
+    color: yellow;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -91,13 +91,13 @@ body{
 }
 
 .professores{
-    background-image: linear-gradient(#009A04,#A7E5A9,#009A04,#A7E5A9);
-    color: white;
+    background-image: linear-gradient(#000000,#000000,#000000,#000000);
+    color: green;
 }
 
 .rodape{
-    background-color: #220000;
-    color: white;
+    background-color: #500000;
+    color: green;
     text-align: right;
     padding: 10px 0;
 }
